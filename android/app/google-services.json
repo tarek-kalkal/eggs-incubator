@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884218757059",
+    "project_id": "tmm113-272ca",
+    "storage_bucket": "tmm113-272ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884218757059:android:a408ab3c5172537c460776",
+        "android_client_info": {
+          "package_name": "com.example.eggsincubator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884218757059-0n31prc8542r60r9slfjv6p0vvvoks86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEM6ooI3G18nponTDCRMnGXXUMq6vlbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884218757059-0n31prc8542r60r9slfjv6p0vvvoks86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884218757059-25e7njh2apmjut790vlve37tj28bdb1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eggsincubator",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
